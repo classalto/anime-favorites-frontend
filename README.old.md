@@ -1,0 +1,1 @@
+# anime-favorites-frontend
